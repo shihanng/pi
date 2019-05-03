@@ -4,4 +4,4 @@ To see the presentation version,
 ```sh
 make view
 ```
-and select [`presentation.html`](./presentation.html)
+visit http://localhost:8000 and select [`presentation.html`](http://localhost:8000/presentation.html#/)
